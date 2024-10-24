@@ -1,0 +1,18 @@
+# Ignore Python cache
+__pycache__/
+
+# Ignore virtual environment
+venv/
+
+# Ignore build folder
+build/
+
+# Ignore IDE files
+.idea/
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+
+# Ignore the spec file
+*.spec
